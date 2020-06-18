@@ -4,4 +4,7 @@ def speak_to_grandma(speak)
   else
     "HUH?! SPEAK UP, SONNY!"
   end
+  if speak == speak
+    "I LOVE YOU TOO PUMPKIN!"
+  end
 end
