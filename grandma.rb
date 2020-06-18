@@ -3,8 +3,15 @@ def speak_to_grandma(speak)
     "NO, NOT SINCE 1938!"
   else
     "HUH?! SPEAK UP, SONNY!"
-  end
-  if speak == speak
-    "I LOVE YOU TOO PUMPKIN!"
-  end
+end 
 end
+
+def speak_to_grandma(speak)
+  if 
+    
+    elsif
+    
+  else
+    
+  end
+end 
